@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c8226c39731314dd9b15.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Free-Fall-Simulation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-3c2542f21d3c96bcc2a6.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-78747f8b373508795b20.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-efe596b4bd4cac672802.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-01429b1258835985bd98.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-3c430edb24f68f60d07d.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFree-Fall-Simulation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFree-Fall-Simulation-Debug-782127289b21bed2122a.json",
+					"name" : "appFree-Fall-Simulation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFree-Fall-Simulation_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFree-Fall-Simulation_autogen-Debug-f4ce60da5f78c0d22517.json",
+					"name" : "appFree-Fall-Simulation_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFree-Fall-Simulation_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFree-Fall-Simulation_autogen_timestamp_deps-Debug-1fd24eda1b23edb9f455.json",
+					"name" : "appFree-Fall-Simulation_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFree-Fall-Simulation_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFree-Fall-Simulation_qmlimportscan-Debug-d5d26e451231bb9eac26.json",
+					"name" : "appFree-Fall-Simulation_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFree-Fall-Simulation_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFree-Fall-Simulation_qmllint-Debug-f18dc047ec7dfcf7cca3.json",
+					"name" : "appFree-Fall-Simulation_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFree-Fall-Simulation_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFree-Fall-Simulation_qmllint_json-Debug-e9372fee65cc41078b17.json",
+					"name" : "appFree-Fall-Simulation_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFree-Fall-Simulation_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFree-Fall-Simulation_qmllint_module-Debug-3c00bdb3477d95d85b35.json",
+					"name" : "appFree-Fall-Simulation_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFree-Fall-Simulation_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFree-Fall-Simulation_qmltyperegistration-Debug-75b4314bcccd615e3437.json",
+					"name" : "appFree-Fall-Simulation_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFree-Fall-Simulation_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFree-Fall-Simulation_tooling-Debug-cb1f50b2c7a0caba9f2b.json",
+					"name" : "appFree-Fall-Simulation_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appFree-Fall-Simulation_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appFree-Fall-Simulation_aotstats_target-Debug-5ed624141ada9cf5ee18.json",
+					"name" : "module_appFree-Fall-Simulation_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/udaff/Qt/Projects/Free-Fall-Simulation/Free-Fall-Simulation/build/Desktop_Qt_6_8_1-Debug",
+		"source" : "/home/udaff/Qt/Projects/Free-Fall-Simulation/Free-Fall-Simulation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

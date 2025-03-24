@@ -1,0 +1,14 @@
+-rootPath
+/home/udaff/Qt/Projects/Free-Fall-Simulation/Free-Fall-Simulation
+-cmake-output
+-output-file
+/home/udaff/Qt/Projects/Free-Fall-Simulation/Free-Fall-Simulation/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appFree-Fall-Simulation_build.cmake
+-importPath
+/home/udaff/Qt/Projects/Free-Fall-Simulation/Free-Fall-Simulation/build/Desktop_Qt_6_8_1-Debug/Free-Fall-Simulation
+-importPath
+/home/udaff/Qt/Projects/Free-Fall-Simulation/Free-Fall-Simulation/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/udaff/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/udaff/Qt/Projects/Free-Fall-Simulation/Free-Fall-Simulation/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_Free-Fall-Simulation.qrc
+/home/udaff/Qt/Projects/Free-Fall-Simulation/Free-Fall-Simulation/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appFree-Fall-Simulation_raw_qml_0.qrc

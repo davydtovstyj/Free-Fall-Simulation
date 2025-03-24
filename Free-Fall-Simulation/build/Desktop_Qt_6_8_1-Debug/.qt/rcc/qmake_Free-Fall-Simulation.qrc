@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Free-Fall-Simulation">
+    <file alias="qmldir">/home/udaff/Qt/Projects/Free-Fall-Simulation/Free-Fall-Simulation/build/Desktop_Qt_6_8_1-Debug/Free-Fall-Simulation/qmldir</file>
+  </qresource>
+</RCC>
+

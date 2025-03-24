@@ -1,0 +1,5 @@
+module Free-Fall-Simulation
+typeinfo appFree-Fall-Simulation.qmltypes
+prefer :/qt/qml/Free-Fall-Simulation/
+Main 1.0 Main.qml
+
